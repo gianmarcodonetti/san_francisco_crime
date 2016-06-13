@@ -2,7 +2,7 @@
 The suggested technique to run and test all the python files is to open the desired document and run the specific section of code you want to test on a IPython console.
 The comments could be helpful in order to better understand which lines you might do not forget.
 
-***********************
+***
 
 # DOCUMENTS INFO
 
